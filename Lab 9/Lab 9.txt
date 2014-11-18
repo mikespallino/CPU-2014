@@ -1,0 +1,49 @@
+Lab 9
+Peter Backus
+Mike Binglebob 
+COMP-278
+11/12/13
+
+Type of CPU: Tutes
+
+Architecture: We will utilize Harvard Architecture when building this CPU
+
+Instructions: 
+1) How many instructions do you plan to implement? 
+- 16
+
+2) What are they?
+-AND
+-OR
+-ADD
+-SUB
+-Load [Rs]
+-Store [Rs]
+-MOV
+-Increment
+-Decrement
+-JEQ
+-JGT
+-Load [mmm]
+-Store [mmm]
+-NOR
+-JLT
+-JNE
+
+3) What is the maximum number of operands each instruction may have?
+- 3
+
+4) How many bits will you use to encode each instruction?
+- 16
+
+5) Are instructions a fixed width? 
+- Yes
+
+
+Registers: 
+
+1) How wide are the registers? 
+- 8 bits
+
+2) How many registers do you plan to implement in the register file?
+- 4 
